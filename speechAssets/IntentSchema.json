@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewFactIntent"
+    },
+    {
+      "intent": "GetNewFactIntentOne"
+    },
+    {
+      "intent": "GetNewFactIntentTwo"
+    },
+    {
+      "intent": "GetNewFactIntentThree"
+    },
+    {
+      "intent": "GetNewFactIntentFour"
+    },
+    {
+      "intent": "GetNewFactIntentFive"
+    },
+    {
+      "intent": "GetNewFactIntentSix"
+    },
+    {
+      "intent": "GetNewFactIntentSeven"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }

@@ -1,0 +1,8 @@
+GetNewFactIntent tell me about qwinix 
+GetNewFactIntentOne tell me about qwinix services
+GetNewFactIntentTwo tell me how can qwinix help
+GetNewFactIntentThree tell me about qwinix cloud capabilities
+GetNewFactIntentFour tell me the color of the cloud
+GetNewFactIntentFive tell me how old is qwinix
+GetNewFactIntentSix tell me where is your mothership is docked
+GetNewFactIntentSeven tell me how are you built
